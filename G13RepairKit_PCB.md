@@ -53,5 +53,5 @@
 
 (KINGROON KP3S、PETGで出力)
 
-オリジナル、RKJXV122400R、RKJXK122400Yで使用できるスティックカバーのstlデータを作りましたので参考にしてみてください。
+オリジナル、RKJXV122400R、RKJXK122400Yで使用できるスティックカバーの[stlデータ](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_images/js_cover.zip)を作りましたので参考にしてみてください。
 （軸穴の勘合がきつかったりゆるゆるの時はスライサーの設定で調整してください。またkit付属の400Yカバーは出力後に軸を旋盤で追加工しております）
