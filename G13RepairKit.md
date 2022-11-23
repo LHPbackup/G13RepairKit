@@ -1,6 +1,6 @@
 # G13 Joystick Repair kit 取付方法
 
-![](./G13RepairKit_images/G13_Joystick_RepairKit_rev1.jpg)  
+![](./G13RepairKit_images/G13_Joystick_RepairKit_1_3.jpg)  
 
 ロジクールG13のアナログジョイスティック基板を丸ごとリプレースする
 **G13 Joystick repair kit**です。  
@@ -20,7 +20,7 @@
 
 ・スティック下スイッチ押し用のネジ（黒いワッシャー付き）
 
-・サムパッド（ねこにゃん：初回限定特典）
+・サムパッド
 
 <br>
 <br>
@@ -125,7 +125,7 @@
 ![](./G13RepairKit_images/picture8.jpg)
 
 分解とは逆の手順で本体を組み立てなおします。
-付属のねこにゃんサムパッドを取り付けたら完成です。  
+付属のサムパッドを取り付けたら完成です。  
 <br>
 <br>
 <br>
