@@ -53,6 +53,7 @@
 軸形状の違うジョイスティックを使う場合は、スティックカバーをそれにあった形状で自作する必要があります。  
  当方では3Dプリンタにて自作しております。  (KINGROON KP3S、PETGで出力)  
 
+オリジナル、RKJXV122400R、RKJXK122400Yで使用できるスティックカバーの[stlとf3dのデータ](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_images/js_cover.zip)を作りましたので参考にしてみてください。  
+軸穴の嵌合がきつかったりゆるゆるの時はスライサーの設定やFusion360で再編集して調整ください。  
 
-オリジナル、RKJXV122400R、RKJXK122400Yで使用できるスティックカバーの[stlデータ](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_images/js_cover.zip)を作りましたので参考にしてみてください。  
-（軸穴の嵌合がきつかったりゆるゆるの時はスライサーの設定で調整してください。[kit](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit.md)付属の400Yカバーは出力後に軸を旋盤で追加工しております）
+[kit](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit.md)付属の400Yカバーは出力後に軸を旋盤で追加工しております。
