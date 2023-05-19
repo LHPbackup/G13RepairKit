@@ -1,6 +1,6 @@
 # G13 JoystickRepairkit 基板の覚え書き
 
-![](./G13RepairKit_images/G13_Joystick_RepairKit_PCB.jpg)  
+![](./G13RepairKit_images/G13_repairkit_rev1_4_pcb.png)  
 
 <br>
 <br>
