@@ -1,6 +1,6 @@
 # G13 Joystick Repair kit 取付方法
 
-![](./G13RepairKit_images/G13_Joystick_RepairKit_1_3.jpg)  
+![](./G13RepairKit_images/G13_repairkit_rev1_4.png)  
 
 ロジクールG13のアナログジョイスティック基板を丸ごとリプレースする
 **G13 Joystick repair kit**です。  
@@ -152,4 +152,6 @@
 rev 1.2　ファーストリリース  
 rev 1.3　基板を変更（スティック下スイッチ取付位置が可変。性能は1.2と変わりません）  
 　　　　付属のサムパッドを原価の都合でねこにゃんから安価なものに変更  
-　　　（こちらがもし破損した場合は[ねこにゃん](https://www.cybergadget.co.jp/products/4544859026829/)がおすすめです。  数年間肉球が擦り切れるほど使ってますが最高です。
+　　　（こちらがもし破損した場合は[ねこにゃん](https://www.cybergadget.co.jp/products/4544859026829/)がおすすめです。  数年間肉球が擦り切れるほど使ってますが最高です。  
+rev 1.4　基板を変更（ピンヘッダ位置を調整。性能は1.3と変わりません）  
+　　　　マイクロスイッチをKailh CMI873101D01からHUANO WK-03Bに変更  
