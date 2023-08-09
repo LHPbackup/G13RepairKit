@@ -38,6 +38,17 @@ MOD位置では折れやすい小部品を介さず直接スイッチを押せ�
 <br>
 <br>
 
+### マイクロスイッチ
+
+![](./G13RepairKit_images/picture22b.jpg)  
+
+AliExpressで入手した2ピンマイクロスイッチ。（左からomron、kailh、huano）  
+国内で入手が難しい場合はG13から換装すると良いでしょう。  
+
+<br>
+<br>
+<br>
+
 ### 使用できるアナログジョイスティック
 
 ![](./G13RepairKit_images/picture13.jpg)  
