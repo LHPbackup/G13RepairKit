@@ -1,6 +1,6 @@
 # G13 Joystick Repair kit 取付方法
 
-![](./G13RepairKit_images/G13_repairkit_rev1_5.png)  
+![](./G13RepairKit_images/G13_repairkit_rev1_5-1.jpg)  
 
 ロジクールG13のアナログジョイスティック基板を丸ごとリプレースする
 **G13 Joystick repair kit**です。  
