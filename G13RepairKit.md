@@ -214,3 +214,10 @@ G13に組み付ければ可動域が制限されるので正しくセンタリ�
 ・カタログスペックでは動作寿命がRKJXK122400Yの20倍（実際の寿命はRKJXK122400Yと同等と考えております）   
 
 ・パーツ単価が下がったので、価格を少し下げました。
+
+<br>
+<br>
+
+### G13 Joystick Repair kit 製作風景
+
+**[G13 Joystick Repair kit 製作風景へのリンク]([G13RepairKit/G13RepairKit_Making.md at main · LHPbackup/G13RepairKit · GitHub](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_Making.md))**
