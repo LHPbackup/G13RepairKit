@@ -220,4 +220,4 @@ G13に組み付ければ可動域が制限されるので正しくセンタリ�
 
 ### G13 Joystick Repair kit 製作風景
 
-**[G13 Joystick Repair kit 製作風景へのリンク]([G13RepairKit/G13RepairKit_Making.md at main · LHPbackup/G13RepairKit · GitHub](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_Making.md))**
+[**G13 Joystick Repair kit 製作風景へのリンク**](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit.md)
