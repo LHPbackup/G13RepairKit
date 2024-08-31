@@ -181,7 +181,7 @@ rev 1.4　基板を変更（ピンヘッダ位置を調整。性能は1.3と変�
 　　　　マイクロスイッチをKailh CMI873101D01からHUANO WK-03Bに変更  
 rev 1.5　基板を変更（基板色を変更。パスコンのパターンをリード・SMD共用化。）  
 　　　　アナログジョイスティックをALPS RKJXK122400YからRKJXV122400Rに変更  
-rev 1.6  基板を変更（ジョイスティック位置を調整。基板色を変更。）  
+rev 1.6　基板を変更（ジョイスティック位置を調整。基板色を変更。）  
 　　　　アナログスティックを Ginfull Hall effect joystick module for SWITCH PROに変更
 
 <br>
