@@ -208,3 +208,5 @@ FPSのエイムのような正確なベクトル入力が必要になる状況�
 ### G13 Joystick Repair kit 製作風景
 
 [**G13 Joystick Repair kit 製作風景へのリンク**](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_Making.md)
+<br>
+[**Hall Effect ジョイスティックの備忘録へのリンク**](https://note.com/trinityironworks/n/ndc0046a61d41)
