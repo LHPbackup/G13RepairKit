@@ -55,7 +55,7 @@ AliExpressで入手した2ピンマイクロスイッチ。（左からomron、k
 
 オリジナルのジョイスティックはもちろんのこと、各社16mmジョイスティック、現在主流の13㎜サイズジョイスティックも使用可能です。  
 
-（※可変抵抗が10kΩのものを選んでください。オリジナル以外では軸の形状に合わせたスティックカバーを3Dプリンタなどで自作する必要があります。FavorUnion、ALPS RKJXV122400R、RKJXK122400Yで使用できるスティックカバーの[stlとf3dのデータ](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_images/js_cover.zip)を準備したので参考にしてみてください。軸穴の嵌合がきつかったりゆるゆるの時はスライサーの設定やFusion360で再編集して下さい。）  
+（※可変抵抗が10kΩのものを選んでください。オリジナル以外では軸の形状に合わせたスティックカバーを3Dプリンタなどで自作する必要があります。製品版スティックカバーの[stlとf3dのデータ](https://github.com/LHPbackup/G13RepairKit/blob/main/G13RepairKit_images/js_cover.zip)等を添付したので参考にしてみてください。軸穴の嵌合がきつかったりゆるゆるの時はスライサーの設定やFusion360のデータを変更して下さい。）  
 
 （写真左下より、G13オリジナル(Favor Union FJN10K-S 旧タイプ)、Logicool F310内蔵(FJN10K-S 新タイプ）、ALPS RKJXK122400Y、ALPS RKJXV122400R、写真上は中国の色々なジョイスティック）
 <br>
