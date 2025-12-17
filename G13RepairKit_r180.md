@@ -182,7 +182,8 @@ rev 1.6　基板を変更（ジョイスティック位置を調整。基板色�
 rev 1.7　アナログスティックを Ginfull TMR joystick for SWITCH PROに変更  
 　　　　スティックカバー形状を変更  
 　　　　基板色を変更（形状、パターンは1.6と変わっておりません。）  
-rev 1.8　基板を変更（部品位置の微細な調整等。1.7とほとんど変わりません）  
+rev 1.8　基板の変更等（部品位置の微細な調整等。1.7とほとんど変わりません）  
+[**変更の概要はこちらをご参照下さい**](https://github.com/LHPbackup/G13RepairKit/blob/main/rev180_changelog.md) 
 <br>
 <br>
 
